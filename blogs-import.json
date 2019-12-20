@@ -1,0 +1,67 @@
+{
+  "blogs" : {
+    "apqeVq0Nf7Qhh8ZbN3eahOXUfCF2" : {
+      "ID1" : {
+        "date" : "23 Nov 2018",
+        "image" : "roi.jpg",
+        "text" : "The term ROI is commonly mentioned in many business models. It is an acronym for Return On Investment. A goal in which a measure is calculated to decide whether an investment will bring a positive or negative return as an outcome from an investment. In plain",
+        "title" : "Is there an ROI in buying a website?",
+        "url" : "/is-there-an-roi-in-buying-a-website"
+      },
+      "ID2" : {
+        "date" : "24 Nov 2018",
+        "image" : "WebsiteCost.jpg",
+        "text" : "This is probably the most taunting question for everyone who decides it is about time to get a website design for their business or organization. Unfortunately, there isn't a clear answer to this. The best way to imagine this is by asking yourself - how long",
+        "title" : "How much is a website?",
+        "url": "/how-much-is-a-website?"
+      },
+      "ID3" : {
+        "date" : "25 Nov 2018",
+        "image" : "wikipediaLogo.jpg",
+        "text" : "Every business starts small and usually, one of the first steps is to create a brand. This is a stressful and very important step in creating your startup business. Your logo will become part of your brand identity and it must be carefully thought through and",
+        "title" : "Choosing the right logo",
+        "url": "/choosing-the-right-logo"
+      },
+      "ID4" : {
+        "title": "Content Validation",
+        "image": "GoogleContentAuthorship.jpg",
+        "date": "23 Jul 2017",
+        "url": "/content-validation",
+        "text":
+            "Content Authorship Content Authorship markup (rel=author) is no longer supported by Google as of August 28th, 2014. This means, Google no longer feels it is worth the effort to scout through the data to find exact copies of re-written content and accredited"
+      },
+      "ID5" : {
+        "title": "Confirmation Dialogs. Ugh...",
+        "image": "Undo-Dialog.jpg",
+        "date": "13 Mar 2017",
+        "url": "/confirmation-dialogs",
+        "text":
+            "Confirm or Undo? Confirmation messages is a concept that has been in every UX Engineer's crosshairs for many years. And for the most part, the concept has been slowly evolving and pointing in the right direction. Of course, there were a few hiccups along the"
+      },
+      "ID6" : {
+        "title": "Removing The Hashtag In Angular",
+        "image": "nohashtag.jpg",
+        "date": "18 Nov 2016",
+        "url": "/removing-the-hashtag-in-angular",
+        "text":
+            "Angular is a Single Page Application framework designed to generate views inside your index page to eliminate refreshing the page and reloading every component every time you navigate from page to page. Instead, the index page loads all main components, and"
+      },
+      "ID7" : {
+        "title": "User Usability And User Experience",
+        "image": "UX.jpg",
+        "date": "02 Jul 2016",
+        "url": "/user-usability-and-user-experience",
+        "text":
+            "Websites are comprised of two major sections - the client side and the server side. The client side is also known as the front end, and the server side known as back end. Both sides work unison to handle the website's functionality. The server side"
+      },
+      "ID8" : {
+        "title": "Using Images On A Website",
+        "image": "image-design.jpg",
+        "date": "01 Jun 2016",
+        "url": "/using-images-on-a-website",
+        "text":
+            "How do I put an image on my website? As silly as this question may seem, this is something that any web designer or developer can do. Yet, for the unexperienced, this can be a little more challenging. Developers write everything that you want in a"
+      }
+    }
+  }
+}
