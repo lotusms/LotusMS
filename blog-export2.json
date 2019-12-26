@@ -1,5 +1,6 @@
 {
   "blogs" : {
+    "apqeVq0Nf7Qhh8ZbN3eahOXUfCF2" : {
       "ID1" : {
         "date" : "23 Nov 2018",
         "excerpt" : "The term ROI is commonly mentioned in many business models. It is an acronym for Return On Investment. A goal in which a measure is calculated to decide whether an investment will bring a positive or negative return as an outcome from an investment. In plain",
@@ -80,5 +81,6 @@
         "title" : "Using Images On A Website",
         "url" : "using-images-on-a-website"
       }
+    }
   }
 }
